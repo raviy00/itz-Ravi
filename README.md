@@ -106,7 +106,7 @@ Two separate CLI tools built for a minimal, keyboard-driven workflow on Kali Lin
   </a>
 </p>
 
-* 🖥️ Portfolio: *coming soon*
+
 * 📍 Based in Sri Lanka 🌾
 * 🤖 Always working on something 🔒 or beautiful 💡
 
