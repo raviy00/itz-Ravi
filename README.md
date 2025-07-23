@@ -94,7 +94,6 @@ Two separate CLI tools built for a minimal, keyboard-driven workflow on Kali Lin
 </p>
 
 ---
-
 ### 📫 How to Reach Me
 
 <p align="center">
@@ -102,6 +101,15 @@ Two separate CLI tools built for a minimal, keyboard-driven workflow on Kali Lin
     <img src="https://img.shields.io/badge/Telegram-@GodsEyE__404-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   &nbsp;
-  </p>
+  <a href="mailto:itzraviya@duck.com">
+    <img src="https://img.shields.io/badge/Email-itzraviya@duck.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
+  </a>
+</p>
+
+* 🖥️ Portfolio: *coming soon*
+* 📍 Based in Sri Lanka 🌾
+* 🤖 Always working on something 🔒 or beautiful 💡
+
+---
 
 > ⚡ “Stay stealthy. Stay curious. Code with purpose.” – God's EyE 🖤
