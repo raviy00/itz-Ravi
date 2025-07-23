@@ -1,4 +1,4 @@
-# Hey there, I'm God's EyE 👁️‍🗨️ 
+# Hey there, I'm Ravishan 👁️‍🗨️ 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raviy00&color=00FFAA&style=for-the-badge" alt="Profile Visitor Count"/>
@@ -98,7 +98,7 @@ Two separate CLI tools built for a minimal, keyboard-driven workflow on Kali Lin
 ### 📫 How to Reach Me
 
 <p align="center">
-  <a href="https://t.me/GodsEyE_404" target="_blank">
+  <a href="https://t.me/gods_eye_404" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-@GodsEyE__404-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   &nbsp;
